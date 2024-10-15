@@ -1,0 +1,18 @@
+// even or odd
+#include <stdio.h>
+
+
+int n=9;
+int main()
+{
+if(n%2==0)
+{
+printf(" the given number is even");
+}
+else
+{
+printf("the given number is odd");
+}
+}
+Output:
+the given number is odd
